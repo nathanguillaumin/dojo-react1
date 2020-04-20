@@ -1,6 +1,8 @@
-# Dojo 3
+# Dojo React - Product cart
 
-Ce dojo est orienté React. C'est l'occasion parfaite de pratiquer l'affichage de listes, la gestion du state, des formulaires et des évènements ! 
+Ce dojo est l'occasion parfaite de pratiquer l'affichage de listes, la gestion du state, des formulaires et des évènements !
+
+Pour commencer, clonez ce dépot et placez-vous à l'interieur du dossier coresspondant.
 
 ## Lancer l'application
 
